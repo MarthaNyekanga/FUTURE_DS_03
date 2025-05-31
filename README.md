@@ -5,14 +5,14 @@ This project involves cleaning and analyzing a demographic dataset using Python 
 ## 📌 Project Objectives
 
 - Clean raw data by handling missing values
-- Standardize column naming (e.g., capitalize column names)
-- Extract meaningful demographic insights based on age, gender, and state/location
+- Standardize column naming
+- Extract meaningful demographic insights based on age, gender, and location
 
 ## 📁 Files and Structure
 
-- `data.csv` — Raw dataset file (replace with your actual filename)
+- `data.csv`  - Kaggle
 - `clean_data.py` — Python script used for data cleaning and analysis
-- `README.md` — Project documentation (this file)
+- `README.md` — Project documentation
 
 ## 🧹 Data Cleaning Steps
 
@@ -36,18 +36,15 @@ VS Code
 Data Source: Kaggle
 
 🚀 How to Run
-Clone this repository:
+Clone this repository: https://github.com/MarthaNyekanga/FUTURE_DS_03
 
-bash
-Copy
-Edit
-git clone <https://github.com/yourusername/your-repo-name.git>
 Install required packages (if not already installed):
 
 bash
 Copy
 Edit
 pip install pandas
+
 Run the script:
 
 bash
